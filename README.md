@@ -45,4 +45,6 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 [Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Invented a 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using **C++**, and modeled in **AutoCAD**
 
-![Gear-based Logic Gates. Here, a working half-adder](/assets/img/gear_project.jpg)
+| ![working half-adder](/assets/img/gear_project.jpg) |
+|:--:| 
+| *Working half-adder, using full, split, and ratcheting gears* |
