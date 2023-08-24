@@ -2,7 +2,7 @@
 **Skills: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React**
 
 ## Education			        		
-**B.S., Computer Science**  
+**B.S. Computer Science**  
 Georgia Institute of Technology (_Aug. 2019 - May 2023_)
 
 ## Work Experience
