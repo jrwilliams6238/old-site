@@ -49,7 +49,7 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 - Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
 - Developed clustering methods for unsupervised activity detection, bootstrapping the training of supervised models
 
-**Topological interpretations of Diplomacy**
+**Topological interpretations of Diplomacy**  
 [Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Used graph theory and topology to recreate the traditional Avalon Hill Diplomacy map as a Mobius Strip, retaining its original graph structure
 
