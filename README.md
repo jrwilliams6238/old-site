@@ -1,6 +1,5 @@
-# Machine Learning Engineer
-
-#### Technical Skills: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
+# Machine Learning Engineer  
+**Skills: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React**
 
 ## Education			        		
 **B.S., Computer Science**  
