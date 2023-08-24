@@ -47,4 +47,4 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 
 | ![working half-adder](/assets/img/gear_project.jpg) |
 |:--:| 
-| *Working half-adder, using full, split, and ratcheting gears* |
+| *Working Half-Adder using full, split, and ratcheting gears* |
