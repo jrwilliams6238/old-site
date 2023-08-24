@@ -19,6 +19,8 @@ AI-CARING (_Jan. 2021 - Sep. 2021_)
 - Outperformed faulty medicine tracker by utilizing ambient sensors (vibration, light, doors) in a deep recurrent model
 - Managed data from thousands of unique sensors, creating a pipeline from AWS to PyTorch to facilitate ML analysis
 
+![Visualization of faulty medication tracker](/assets/img/med_graphic.PNG)
+
 **SURF Intern, Data Science Intern**  
 Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 - Developed tools for the NLP of COVID-19 abstracts, classifying articles for meta-analysis at the start of the pandemic
