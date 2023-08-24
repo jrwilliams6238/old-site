@@ -36,11 +36,6 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 - Scraped the text of every documented movie’s Wikipedia article, creating an embedded representation of each film
 - Rapidly prototyped minimum viable product using **Figma** and **React**. Coordinated efforts with Agile, Colab, and Git
 
-**Analysis of Aware Homes**  
-[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
-- Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
-- Developed clustering methods for unsupervised activity detection, bootstrapping the training of supervised models
-
 **3D Printed Logic Gates**  
 [Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Invented a 3D-printed gear logic system. Prototyped with **CircuitSim**, simulated using **C++**, and modeled in **AutoCAD**
@@ -48,3 +43,15 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 | ![working half-adder](/assets/img/gear_project.jpg) |
 |:--:| 
 | *Working Half-Adder using full, split, and ratcheting gears* |
+
+**Analysis of Aware Homes**  
+[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
+- Utilized **Pandas** and **TensorFlow** to create deep recurrent models capable of labeling activity from live sensor data
+- Developed clustering methods for unsupervised activity detection, bootstrapping the training of supervised models
+
+**Topological interpretations of Diplomacy**
+- Used graph theory and topology to recreate the traditional Avalon Hill Diplomacy map as a Mobius Strip, retaining its original graph structure
+
+| ![mobius_diplomacy](/assets/img/mobius_diplomacy.png) |
+|:--:| 
+| *Pixel Art representation of the Mobius map. Note the map wraps at the edges.* |
