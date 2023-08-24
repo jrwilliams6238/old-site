@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education			        		
-- B.S., Computer Science | Georgia Institute of Technology (_May 2023_)
+**B.S., Computer Science | Georgia Institute of Technology (_May 2023_)**
 
 ## Work Experience
 **Machine Learning Engineer Intern @ Institute of People and Technology (Summer 2022)**
