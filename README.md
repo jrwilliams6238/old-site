@@ -1,10 +1,10 @@
 # Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python (PyTorch, TensorFlow), Java, C++, R, SQL, AWS, React
 
 ## Education			        		
 **B.S., Computer Science**  
-Georgia Institute of Technology (_Aug. 2019 - May. 2023_)
+Georgia Institute of Technology (_Aug. 2019 - May 2023_)
 
 ## Work Experience
 **Machine Learning Engineer Intern**  
@@ -27,12 +27,12 @@ Cincinnati Children’s Hospital Medical Center (_Summer 2020_)
 
 ## Projects
 **Recommend.US**, a Create-X Startup  
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Invented a recommender system where users add/subtract/average books and movies to receive novel suggestions
 - Scraped the text of every documented movie’s Wikipedia article, creating an embedded representation of each film
 - Rapidly prototyped minimum viable product using Figma and React. Coordinated efforts with Agile, Colab, and Git
 
 
 **3D Printed Logic Gates**  
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Future Link](https://www.linkedin.com/in/jacobwilliams314/)
 - Invented a 3D-printed gear logic system. Prototyped with CircuitSim, simulated using C++, and modeled in AutoCAD
